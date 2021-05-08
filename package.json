@@ -1,0 +1,19 @@
+{
+  "name": "myjsonportfolio",
+  "version": "1.0.0",
+  "description": "portfolio fake data api",
+  "main": "db.json",
+  "scripts": {
+    "json:serve": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaveloMevaSoavina/my-json-portfolio.git"
+  },
+  "author": "RaveloMevaSoavina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaveloMevaSoavina/my-json-portfolio/issues"
+  },
+  "homepage": "https://github.com/RaveloMevaSoavina/my-json-portfolio#readme"
+}
