@@ -4,49 +4,84 @@
             "id": 1,
             "title": "DevTube (youtube clone)",
             "img" : "https://drive.google.com/file/d/16ITQnSHkIdsMdGP0kMlBAKAjNQJ6pJIn/view?usp=sharing",
-            "stack": "",
+            "stack": [
+                "REACTJS",
+                "REDUX",
+                "YOUTUBE DATA API",
+                "MATERIAL DESIGN"
+            ],
             "goal" : "",
-            "year" : ""
+            "year" : "2020"
           },
           {
             "id": 2,
             "title": "Linked'ev (linkedin clone)",
             "img" :"https://drive.google.com/file/d/1MbgvFXOK9TLauSEhxFT5Gk7UKZGPWw-O/view?usp=sharing",
+            "stack": [
+                "REACTJS",
+                "REDUX",
+                "NODEJS",
+                "EXPRESS",
+                "MONGODB"
+            ],
             "goal" : "",
-            "stack": "",
-            "year" : ""
+            "year" : "2021"
           },
           {
             "id": 3,
             "title": "Devzon (amazon clone)",
             "img" : "https://drive.google.com/file/d/10Ct-ASylEyGgJ3f5nOpUwSLBiAPM3zCr/view?usp=sharing",
-            "stack": "",
+            "stack":  [
+                "REACTJS",
+                "REDUX",
+                "NODEJS",
+                "EXPRESS",
+                "MONGODB"
+            ],
             "goal" : "",
-            "year" : ""
+            "year" : "2021"
           },
           {
             "id": 4,
             "title": "CampusDev (campusfrance clone)",
             "img" : "https://drive.google.com/file/d/17iesA1g6-XaffBRltQTOFZ5R_6xU0ATa/view?usp=sharing",
-            "stack": "",
+            "stack":  [
+                "REACTJS",
+                "REDUX",
+                "NODEJS",
+                "EXPRESS",
+                "MONGODB"
+            ],
             "goal" : "",
-            "year" : ""
+            "year" : "2018"
           },
           {
             "id": 5,
             "title": "Devllo (trello clone)",
             "img" : "https://drive.google.com/file/d/1ykyOyEin4C9vJDiaTgCHLLBGysFSpmtt/view?usp=sharing",
-            "stack": "",
+            "stack":  [
+                "REACTJS",
+                "REDUX",
+                "NODEJS",
+                "EXPRESS",
+                "MONGODB"
+            ],
             "goal" : "",
-            "year" : ""
+            "year" : "2019"
           },
           {
             "id": 6,
             "title": "PortalDev (portalJob clone)",
             "img" : "https://drive.google.com/file/d/1CiWZepbWZV6tbEVS62tv4uvAzaScx3J4/view?usp=sharing",
-            "stack": "",
+            "stack":  [
+                "REACTJS",
+                "REDUX",
+                "NODEJS",
+                "EXPRESS",
+                "MONGODB"
+            ],
             "goal" : "",
-            "year" : ""
+            "year" : "2021"
           }
     ]
 }
