@@ -12,7 +12,8 @@
                 "Styled-component"
             ],
             "goal" : "Pendant une mission dans une entreprise en tant que développeur Javascript , j'étais en charge de la conception d'une plateforme touristique qui propose des offres de voyage, d’hébergement et de location à Madagascar et un site de réservation pour tout achat ou consommation d’un produit auprès des partenaires. Aty Aminay s’est donné pour mission de transformer les habitudes des visiteurs mais à priori des Malagasy en partageant la magnifique beauté de l’île. La conception à durer 4 mois conception de back office inclus.",
-            "year" : "Aout 2020"
+            "year" : "Aout 2020",
+            "live" : "https://www.aty-aminay.com/"
           },
           {
             "id": 2,
