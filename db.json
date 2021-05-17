@@ -2,16 +2,17 @@
     "project" : [
         {
             "id": 1,
-            "title": "DevTube (youtube clone)",
-            "img" : " https://drive.google.com/uc?export=view&id=16ITQnSHkIdsMdGP0kMlBAKAjNQJ6pJIn",
+            "title": "Aty Aminay.mg",
+            "img" : " https://drive.google.com/uc?export=view&id=1HepLC_9np07ul23INcYixLNAa_UU889m",
             "stack": [
-                "REACTJS",
-                "REDUX",
-                "YOUTUBE DATA API",
-                "MATERIAL DESIGN"
+                "React.js",
+                "Redux",
+                "NodeJs",
+                "Ant Design",
+                "Styled-component"
             ],
-            "goal" : "Cyprum itidem insulam procul a continenti discretam et portuosam inter municipia crebra urbes duae faciunt claram Salamis et Paphus, altera Iovis delubris altera Veneris templo insignis. tanta autem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius externi indigens adminiculi indigenis viribus a fundamento ipso carinae ad supremos usque carbasos aedificet onerariam navem omnibusque armamentis instructam mari committat.",
-            "year" : "2020"
+            "goal" : "Pendant une mission dans une entreprise en tant que développeur Javascript , j'étais en charge de la conception d'une plateforme touristique qui propose des offres de voyage, d’hébergement et de location à Madagascar et un site de réservation pour tout achat ou consommation d’un produit auprès des partenaires. Aty Aminay s’est donné pour mission de transformer les habitudes des visiteurs mais à priori des Malagasy en partageant la magnifique beauté de l’île. La conception à durer 4 mois conception de back office inclus.",
+            "year" : "Aout 2020"
           },
           {
             "id": 2,
