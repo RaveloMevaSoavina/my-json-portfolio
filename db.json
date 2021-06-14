@@ -17,17 +17,17 @@
           },
           {
             "id": 2,
-            "title": "Linked'ev (linkedin clone)",
+            "title": "Linkedev",
             "img" :"https://drive.google.com/uc?export=view&id=1MbgvFXOK9TLauSEhxFT5Gk7UKZGPWw-O",
             "stack": [
-                "REACTJS",
-                "REDUX",
-                "NODEJS",
-                "EXPRESS",
-                "MONGODB"
+              "REACTJS",
+              "NEXTJS",
+              "STYLED-COMPONENT",
+              "REDUX"
             ],
-            "goal" : "Accedebant enim eius asperitati, ubi inminuta vel laesa amplitudo imperii dicebatur, et iracundae suspicionum quantitati proximorum cruentae blanditiae exaggerantium incidentia et dolere inpendio simulantium, si principis periclitetur vita, a cuius salute velut filo pendere statum orbis terrarum fictis vocibus exclamabant. Latius iam disseminata licentia onerosus bonis omnibus Caesar nullum post haec adhibens modum orientis latera cuncta vexabat nec honoratis parcens nec urbium primatibus nec plebeiis. Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.",
-            "year" : "2021"
+            "goal" : "Linkedev est une clone du fameux plateforme LINKEDIN. Le but de ce projet est d'élargir mes compétences en matière d'intégration et l'utilisation des outils de désign. Le Projet a été faite pendant 2 jours. ",
+            "year" : "2021",
+            "live" : "https://linkedev.vercel.app/"
           },
           {
             "id": 3,
@@ -35,10 +35,10 @@
             "img" : "https://drive.google.com/uc?export=view&id=1mlgKYsig4FS2tKRnsPkFNF8X3p_f1rMT",
             "stack":  [
                 "REACTJS",
-                "REDUX",
-                "NODEJS",
-                "EXPRESS",
-                "MONGODB"
+                "NEXTJS",
+                "STYLED-COMPONENT",
+                "JSONDATA",
+                "REDUX"
             ],
             "goal" : "Duplexque isdem diebus acciderat malum, quod et Theophilum insontem atrox interceperat casus, et Serenianus dignus exsecratione cunctorum, innoxius, modo non reclamante publico vigore, discessit.",
             "year" : "2021"
