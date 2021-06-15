@@ -20,10 +20,10 @@
             "title": "Linkedev",
             "img" :"https://drive.google.com/uc?export=view&id=1MbgvFXOK9TLauSEhxFT5Gk7UKZGPWw-O",
             "stack": [
-              "REACTJS",
+              "React.js",
               "NEXTJS",
-              "STYLED-COMPONENT",
-              "REDUX"
+              "Styled-component",
+              "Redux"
             ],
             "goal" : "Linkedev est une clone du fameux plateforme LINKEDIN. Le but de ce projet est d'élargir mes compétences en matière d'intégration et l'utilisation des outils de désign. Le Projet a été faite pendant 2 jours. ",
             "year" : "2021",
@@ -31,6 +31,20 @@
           },
           {
             "id": 3,
+            "title": "Devllo",
+            "img" : "https://drive.google.com/uc?export=view&id=1ykyOyEin4C9vJDiaTgCHLLBGysFSpmtt",
+            "stack":  [
+                "Vue.js",
+                "VUEX store",
+                "Tailwind CSS",
+                "localStorage"
+            ],
+            "goal" : "DEVLLO est un simple copie de l'outil de gestion de projet en ligne Trello. Il a été faite en une journée. Il m'a permis d'enquérir des compétences sur la technologie vuejs.",
+            "year" : "2019",
+            "live" : "https://devllo.vercel.app/"
+          },
+          {
+            "id": 4,
             "title": "Devzon (amazon clone)",
             "img" : "https://drive.google.com/uc?export=view&id=1mlgKYsig4FS2tKRnsPkFNF8X3p_f1rMT",
             "stack":  [
@@ -44,7 +58,7 @@
             "year" : "2021"
           },
           {
-            "id": 4,
+            "id": 5,
             "title": "CampusDev (campusfrance clone)",
             "img" : "https://drive.google.com/uc?export=view&id=17iesA1g6-XaffBRltQTOFZ5R_6xU0ATa",
             "stack":  [
@@ -57,20 +71,7 @@
             "goal" : "Hoc inmaturo interitu ipse quoque sui pertaesus excessit e vita aetatis nono anno atque vicensimo cum quadriennio imperasset. natus apud Tuscos in Massa Veternensi, patre Constantio Constantini fratre imperatoris, matreque Galla sorore Rufini et Cerealis, quos trabeae consulares nobilitarunt et praefecturae. Fuerit toto in consulatu sine provincia, cui fuerit, antequam designatus est, decreta provincia. Sortietur an non? Nam et non sortiri absurdum est, et, quod sortitus sis, non habere. Proficiscetur paludatus? Quo? Quo pervenire ante certam diem non licebit. ianuario, Februario, provinciam non habebit; Kalendis ei denique Martiis nascetur repente provincia. Iis igitur est difficilius satis facere, qui se Latina scripta dicunt contemnere. in quibus hoc primum est in quo admirer, cur in gravissimis rebus non delectet eos sermo patrius, cum idem fabellas Latinas ad verbum e Graecis expressas non inviti legant. quis enim tam inimicus paene nomini Romano est, qui Ennii Medeam aut Antiopam Pacuvii spernat aut reiciat, quod se isdem Euripidis fabulis delectari dicat, Latinas litteras oderit? Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui. Quam quidem partem accusationis admiratus sum et moleste tuli potissimum esse Atratino datam. Neque enim decebat neque aetas illa postulabat neque, id quod animadvertere poteratis, pudor patiebatur optimi adulescentis in tali illum oratione versari. Vellem aliquis ex vobis robustioribus hunc male dicendi locum suscepisset; aliquanto liberius et fortius et magis more nostro refutaremus istam male dicendi licentiam. Tecum, Atratine, agam lenius, quod et pudor tuus moderatur orationi meae et meum erga te parentemque tuum beneficium tueri debeo.",
             "year" : "2018"
           },
-          {
-            "id": 5,
-            "title": "Devllo (trello clone)",
-            "img" : "https://drive.google.com/uc?export=view&id=1ykyOyEin4C9vJDiaTgCHLLBGysFSpmtt",
-            "stack":  [
-                "REACTJS",
-                "REDUX",
-                "NODEJS",
-                "EXPRESS",
-                "MONGODB"
-            ],
-            "goal" : "Ex his quidam aeternitati se commendari posse per statuas aestimantes eas ardenter adfectant quasi plus praemii de figmentis aereis sensu carentibus adepturi, quam ex conscientia honeste recteque factorum, easque auro curant inbracteari, quod Acilio Glabrioni delatum est primo, cum consiliis armisque regem superasset Antiochum. quam autem sit pulchrum exigua haec spernentem et minima ad ascensus verae gloriae tendere longos et arduos, ut memorat vates Ascraeus, Censorius Cato monstravit. qui interrogatus quam ob rem inter multos... statuam non haberet malo inquit ambigere bonos quam ob rem id non meruerim, quam quod est gravius cur inpetraverim mussitare.",
-            "year" : "2019"
-          },
+          
           {
             "id": 6,
             "title": "PortalDev (portalJob clone)",
