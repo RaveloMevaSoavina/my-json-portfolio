@@ -57,6 +57,19 @@
           },
           {
             "id": 5,
+            "title": "Devmail",
+            "img" : "https://drive.google.com/uc?export=view&id=1YehzR3dhtylkL3v1ktoqA1kdoZcBkPOD",
+            "stack":  [
+                "Reactjs",
+                "Nextjs",
+                "Styled-components"
+            ],
+            "goal" : "Devmail est un service de messagerie électronique entendu plus simplement par boîte mail ; c'est un clone du fameux service de google Gmail. Il a été fait avec le librarie React.js.Et il a été fait en une journée",
+            "year" : "2021",
+            "live" : "https://devmail.vercel.app/"
+          },
+          {
+            "id": 6,
             "title": "Devzon",
             "img" : "https://drive.google.com/uc?export=view&id=1mlgKYsig4FS2tKRnsPkFNF8X3p_f1rMT",
             "stack":  [
@@ -71,7 +84,7 @@
             "live" : "https://amazon-clone-ks.vercel.app"
           },
           {
-            "id": 6,
+            "id": 7,
             "title": "2048 game",
             "img" : "https://drive.google.com/uc?export=view&id=1vkVUS5lr09gt6kSJikxWwUBQxdxfKfsy",
             "stack":  [
@@ -84,22 +97,6 @@
             "goal" : "Le jeu 2048 est un jeu de type puzzle cloné en 2017 afin de renforcer mes capacités en algoritme. Il a été fait avec react.js class component . Fait en une semaine.",
             "year" : "2017",
             "live" : "https://2048-g.vercel.app/"
-          },
-          
-          {
-            "id": 7,
-            "title": "Devmail",
-            "img" : "https://drive.google.com/uc?export=view&id=1drhofw1WAlx3F6IfcsLCCKUelI-gh2bI",
-            "stack":  [
-                "REACTJS",
-                "Nextjs",
-                "NODEJS",
-                "EXPRESS",
-                "MONGODB"
-            ],
-            "goal" : "Exsistit autem hoc loco quaedam quaestio subdifficilis, num quando amici novi, digni amicitia, veteribus sint anteponendi, ut equis vetulis teneros anteponere solemus. Indigna homine dubitatio! Non enim debent esse amicitiarum sicut aliarum rerum satietates; veterrima quaeque, ut ea vina, quae vetustatem ferunt, esse debet suavissima; verumque illud est, quod dicitur, multos modios salis simul edendos esse, ut amicitiae munus expletum sit.",
-            "year" : "2021",
-            "live" : "https://devmail.vercel.app/"
           }
     ]
 }
