@@ -31,6 +31,18 @@
           },
           {
             "id": 3,
+            "title": "Certificate Techzara",
+            "img" : "https://drive.google.com/uc?export=view&id=1GvUYSb4VgSgeRSYUK7NRTjE5TsLU93hc",
+            "stack":  [
+                "HTML",
+                "CSS"
+            ],
+            "goal" : "Certificate Techzara est une integration d'une maquette de certificat pour des challenges organisé par Techzara où j'ai été le gagnant pour le challenge Frontend avec une mention Excellente.",
+            "year" : "2020",
+            "live" : "https://techzara.org/techzara/certificate/raveloMeva"
+          },
+          {
+            "id": 4,
             "title": "Devllo",
             "img" : "https://drive.google.com/uc?export=view&id=1ykyOyEin4C9vJDiaTgCHLLBGysFSpmtt",
             "stack":  [
@@ -44,7 +56,7 @@
             "live" : "https://devllo.vercel.app/"
           },
           {
-            "id": 4,
+            "id": 5,
             "title": "Devzon",
             "img" : "https://drive.google.com/uc?export=view&id=1mlgKYsig4FS2tKRnsPkFNF8X3p_f1rMT",
             "stack":  [
@@ -59,7 +71,7 @@
             "live" : "https://amazon-clone-ks.vercel.app"
           },
           {
-            "id": 5,
+            "id": 6,
             "title": "2048 game",
             "img" : "https://drive.google.com/uc?export=view&id=1vkVUS5lr09gt6kSJikxWwUBQxdxfKfsy",
             "stack":  [
@@ -75,7 +87,7 @@
           },
           
           {
-            "id": 6,
+            "id": 7,
             "title": "Devmail",
             "img" : "https://drive.google.com/uc?export=view&id=1drhofw1WAlx3F6IfcsLCCKUelI-gh2bI",
             "stack":  [
